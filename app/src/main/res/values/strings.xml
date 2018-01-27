@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="lbl_password">Senha</string>
+    <string name="error_field_email">Email não pode ser vazio</string>
+    <string name="error_field_password">Senha não pode ser vazia</string>
+</resources>
