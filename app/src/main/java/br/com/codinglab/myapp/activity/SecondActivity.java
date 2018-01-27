@@ -1,8 +1,10 @@
-package br.com.codinglab.myapp;
+package br.com.codinglab.myapp.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+
+import br.com.codinglab.myapp.R;
 
 public class SecondActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package br.com.codinglab.myapp;
+package br.com.codinglab.myapp.activity;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -12,6 +12,8 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
+
+import br.com.codinglab.myapp.R;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
